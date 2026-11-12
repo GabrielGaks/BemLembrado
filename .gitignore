@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env*
+!.env.example
+*.log
+.vercel/
+.codex_tmp/
+.temp/
+infra/evolution/.env
+supabase/.temp/
+qr-temporario.png
